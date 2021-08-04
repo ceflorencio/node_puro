@@ -1,0 +1,19 @@
+{
+  "name": "node_puro",
+  "version": "1.0.0",
+  "description": "app nodejs puro sem frameworks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceflorencio/node_puro.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceflorencio/node_puro/issues"
+  },
+  "homepage": "https://github.com/ceflorencio/node_puro#readme"
+}
